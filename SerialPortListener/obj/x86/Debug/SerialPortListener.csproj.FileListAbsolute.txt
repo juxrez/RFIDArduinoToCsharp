@@ -1,0 +1,8 @@
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\AlexisJuarez\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
